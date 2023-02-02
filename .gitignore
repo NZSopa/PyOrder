@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Excel and csv Files
+AMZCODE.xlsx
+/OrderData*
+
+/myenv
